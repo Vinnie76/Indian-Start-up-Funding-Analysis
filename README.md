@@ -1,9 +1,9 @@
 # Indian-Start-up-Funding-Analysis
 Our team is trying to venture into the Indian start-up ecosystem. As the data experts of the team we are to investigate the ecosystem and propose the best course of action. 
 ## Summary
-| Code      | Name        | Published Article |  Deployed App |
-|-----------|-------------|:-------------:|------:|
-| LP# or P# | Magical Machine Learning |  [Best article of the world](/) | [Best app of the world](/) |
+| Code      | Name        | Published Article |
+|-----------|-------------|:-------------:|
+| LP# | Indian StartUp Funding Analysis |  [Best article of the world](/) |
 
 ## Scenario
 Your team is trying to venture into the Indian start-up ecosystem. As the data expert of the team you are to investigate the ecosystem and propose the best course of action.
@@ -13,7 +13,7 @@ Ideas, creativity, and execution are essential for a start-up to flourish. But a
 
 Column names and description:
 
-**Company/Brand:** Name of the company/start-up
+- **Company/Brand:** Name of the company/start-up
 
 **Founded:** Year start-up was founded
 
