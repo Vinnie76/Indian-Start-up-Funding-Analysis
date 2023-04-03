@@ -3,7 +3,7 @@ Our team is trying to venture into the Indian start-up ecosystem. As the data ex
 ## Summary
 | Code      | Name        | Published Article |
 |-----------|-------------|:-------------:|
-| LP# | Indian StartUp Funding Analysis |  [Best article of the world](/) |
+| LP# | Indian StartUp Funding Analysis |  https://www.linkedin.com/pulse/indian-startup-ecosystem2019-2021-vincent-kipkorir |
 
 ## Scenario
 Your team is trying to venture into the Indian start-up ecosystem. As the data expert of the team you are to investigate the ecosystem and propose the best course of action.
