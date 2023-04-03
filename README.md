@@ -15,19 +15,19 @@ Column names and description:
 
 - **Company/Brand:** Name of the company/start-up
 
-**Founded:** Year start-up was founded
+- **Founded:** Year start-up was founded
 
-**Sector:** Sector of service
+- **Sector:** Sector of service
 
-**What it does:** Description about Company
+- **What it does:** Description about Company
 
-**Founders:** Founders of the Company
+- **Founders:** Founders of the Company
 
-**Investor:** Investors
+- **Investor:** Investors
 
-**Amount($):** Raised fund
+- **Amount($):** Raised fund
 
-**Stage:** Round of funding reached
+- **Stage:** Round of funding reached
 
 ## Hypothesis
 Funding has been increasing over the years
@@ -40,15 +40,15 @@ Your task is to develop a unique story from this dataset by stating and testing 
 
 So as part of the project you are to:
 
-**Ask questions**
+- **Ask questions**
 
-**Develop hypothesis**
+- **Develop hypothesis**
 
-**Process the data**
+- **Process the data**
 
-**Analyse the data**
+- **Analyse the data**
 
-**Visualise the data**
+- **Visualise the data**
 
 Upon completion compile these processes in a blog post and share your analysis on Medium, LinkedIn, Dev.to, personal blog or a suitable blogging website.
 
